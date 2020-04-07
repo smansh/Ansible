@@ -1,5 +1,5 @@
 ---
-- hosts: web-servers
+- hosts: 192.168.43.253
   sudo: yes
   vars:
     - server_port: 80
